@@ -10,15 +10,6 @@ I will document the evolution of each model here, along with the associated chal
 
 Based on the latest research and my current understanding, I plan to enhance the models iteratively. While I recognize that my resources (e.g., data, GPUs) limit comprehensive training and evaluation, I aim to demonstrate the key improvements proposed in these foundational articles. 
 
-### **Current Models Under Development**
-1. **Decoder Prediction Models** (GPT2)
-2. **Differential Transformer** (new attention trick)
-3. **Vision Transformers (ViT)**
-4. **Machine Translation Models** (Transformer)
-6. **Small BERT Model** (with masking, randomly selecting tokens to mask)
-
----
-
 ## **Planned Workflow**
 
 ### **Implementation Roadmap**
