@@ -31,7 +31,7 @@ Given the limited availability of GPUs, all models will be trained on small data
 
 ---
 
-## **Goals **
+## **Goals**
 This project is a hands-on effort to:
 1. Understand the inner workings of classical and modern NLP architectures.
 2. Code these models step-by-step, testing my knowledge without relying on external help.
