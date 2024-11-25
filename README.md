@@ -1,6 +1,6 @@
 # **Building All Classical NLP Models from Scratch**
 
-This project is my personal journey to implement classical NLP and Transformer-based models from scratch, inspired by foundational and cutting-edge research papers. The goal is to deepen my understanding by coding these architectures "the old-fashioned way"—without relying on external human or LLM assistance. 
+This project is my personal journey to implement classical NLP and Transformer-based models from scratch, inspired by foundational and cutting-edge research papers. The goal is to deepen my understanding by coding these architectures "the old-fashioned way"—without relying on external human or LLM assistance (relying on pytorch blogs and stack-overflow) .
 
 I will document the evolution of each model here, along with the associated challenges, improvements, and bugs. You’ll find multiple versions (e.g., `version1`, `version2`...) representing the historical development of the implementations.
 
@@ -16,9 +16,10 @@ Based on the latest research and my current understanding, I plan to enhance the
 I plan to implement and refine the following papers:
 1. **Attention Is All You Need** – The foundation of Transformers.
 2. **GPT-2** – Starting with a basic implementation, followed by enhancements.
-3. **Vision Transformers (ViT)** – Adapting Transformer-based architectures for vision tasks.
-4. **Differential Transformer** – Incorporating the novel attention mechanism discussed in the referenced article.
-5. **MAMBA Architecture** – An advanced architecture (details forthcoming).
+3. **RNN** - Starting by RNN basic model, followed by LSTM, GRU ...
+4. **Vision Transformers (ViT)** – Adapting Transformer-based architectures for vision tasks.
+5. **Differential Transformer** – Incorporating the novel attention mechanism discussed in the referenced article.
+6. **MAMBA Architecture** – An advanced architecture (details forthcoming).
 
 ---
 
