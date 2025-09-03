@@ -1,6 +1,6 @@
 # **Building All Classical NLP Models from Scratch**
 
-This project is my personal journey to implement classical NLP and Transformer-based models from scratch, inspired by foundational and cutting-edge research papers. The goal is to deepen my understanding by coding these architectures "the old-fashioned way"—without relying on external human or LLM assistance (relying on pytorch blogs and stack-overflow) .
+This project is my personal journey to implement classical NLP and Transformer-based models from scratch, inspired by foundational and cutting-edge research papers. The goal is to deepen my understanding by coding these architectures " .
 
 I will document the evolution of each model here, along with the associated challenges, improvements, and bugs. You’ll find multiple versions (e.g., `version1`, `version2`...) representing the historical development of the implementations.
 
